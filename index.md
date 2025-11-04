@@ -1,6 +1,11 @@
+# DSC180A - Methodology Assignment 4
+
 **Name:** Leah Seseri 
+
 **Email:** lseseri@ucsd.edu
+
 **Section:** B08
+
 **Mentor:** Aaron Boussina and Karandeep Singh
 
 ### **1. What is the most interesting topic covered in your domain this quarter?**
